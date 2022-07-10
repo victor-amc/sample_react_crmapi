@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "name": "Victor Ajax",
+      "company": "Victor pty ltd",
+      "email": "victor@sexy.com",
+      "mobile": "010101010",
+      "notes": "Hello world!",
+      "id": 1
+    },
+    {
+      "name": "Rnadom",
+      "company": "randy pty ltd",
+      "email": "rr@sexy.com",
+      "mobile": "234234532",
+      "notes": "",
+      "id": 2
+    },
+    {
+      "name": "Test2",
+      "company": "test pty ltd",
+      "email": "test@sexy.com",
+      "mobile": "12456789",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "name": "Test2",
+      "company": "test2 pty ltd",
+      "email": "test2@sexy.com",
+      "mobile": "12456789",
+      "notes": "",
+      "id": 4
+    },
+    {
+      "name": "Pedro",
+      "company": "Perdot tu",
+      "email": "pedro@pedro.com",
+      "mobile": "0938450239485",
+      "notes": "ñldkjf añsldfj añsldkfj a",
+      "id": 5
+    },
+    {
+      "name": "Rambo",
+      "company": "Killing pty ltd",
+      "email": "rambo@killingit.com",
+      "mobile": "0498765422",
+      "notes": "Some Notes",
+      "id": 6
+    }
+  ]
+}
