@@ -96,7 +96,7 @@ const MyForm = () => {
 npm i -g json-server
 ```
 
-create `db.json` on root
+Create `db.json` on root
 
 ```Bash
 json-server --watch db.json --port 4000
